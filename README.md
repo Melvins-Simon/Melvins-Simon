@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Melvins-Simon  
-- 👀 I’m interested in ... Technology  
-- 🌱 I’m currently pursuing ... BSc. IT  
-- 💞️ I’m looking to collaborate on ... AI & Software Dev projects  
-- 📫 How to reach me ... melvinssimon@gmail.com  
-- 😄 Pronouns: ... Mr.
+### 👋 Hello, I'm Melvins Simon
+
+I'm a passionate and driven Information Technology student pursuing a **Bachelor of Science in IT**. I have a strong interest in **Artificial Intelligence**, **Computer Vision**, and **Software Development**, with hands-on experience in both frontend and backend technologies.
+
+I thrive in collaborative environments and enjoy building innovative solutions that merge creativity with technology. I'm currently looking to contribute to projects in **AI**, **ML**, **Object Detection**, and **Web Development**.
+
+- 🎓 BSc. IT Student  
+- 💡 Interests: Technology, AI, Software Engineering, Open Source  
+- 🤝 Open to collaboration on AI & Software Development projects  
+- 📫 Reach me at: **melvinssimon@gmail.com**  
+- 😄 Pronouns: He/Him
+
 
 ### Programming Languages:
 
@@ -20,14 +26,18 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Pydantic](https://img.shields.io/badge/Pydantic-0A0A0A?style=for-the-badge&logo=python&logoColor=white)](https://docs.pydantic.dev/)  
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF1717?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
 
 ### AI / ML & Computer Vision:
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)  
 [![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)  
 [![face-api.js](https://img.shields.io/badge/face--api.js-00599C?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/justadudewhohacks/face-api.js)
 
 <!---
