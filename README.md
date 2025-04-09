@@ -33,9 +33,13 @@ I thrive in collaborative environments and enjoy building innovative solutions t
 
 ### 🧩 ORMs (Object Relational Mappers)
 
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF1717?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+**Node.js:**
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)  
 [![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=data&logoColor=white)](https://orm.drizzle.team/)
+
+**FastAPI:**
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF1717?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+
 
 ### 🧠 AI / ML & Computer Vision
 
