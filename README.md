@@ -3,9 +3,9 @@
 
 I design and deploy **scalable AI-integrated applications** and **data pipelines**, combining modern web development with machine learning systems. My work spans:  
 
+- **Full-Stack Development**: End-to-end ownership from backend APIs to responsive frontends  
 - **AI/ML Integration**: Productionizing LLMs, RAG systems, and custom AI agents  
 - **Data Engineering**: Building ETL workflows, real-time data processing, and optimized databases  
-- **Full-Stack Development**: End-to-end ownership from backend APIs to responsive frontends  
 
 ## Technical Stack  
 
