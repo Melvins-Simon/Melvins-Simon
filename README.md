@@ -1,5 +1,6 @@
 # Melvins Simon  
 🔗 [My Portfolio](https://www.melvins-simon.tech)
+
 **Software Developer | AI & Cloud Specialist**  
 
 I design and deploy **scalable AI-integrated applications** and **data pipelines**, combining modern web development with machine learning systems. My work spans:  
