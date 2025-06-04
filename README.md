@@ -1,5 +1,4 @@
-# Melvins Simon  [![Portfolio](https://img.shields.io/badge/Portfolio-melvins--simon.tech-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.melvins-simon.tech)
-
+# Melvins Simon  🔗 [My Portfolio](https://www.melvins-simon.tech)
 **Software Developer | AI & Cloud Specialist**  
 
 I design and deploy **scalable AI-integrated applications** and **data pipelines**, combining modern web development with machine learning systems. My work spans:  
