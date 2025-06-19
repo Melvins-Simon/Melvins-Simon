@@ -39,3 +39,9 @@ I design and deploy **scalable AI-integrated applications** and **data pipelines
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)  
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 
+
+---
+### 🏆 Achievements & Certifications
+---
+
+[![Hack Together AI Agents Hackathon Badge](https://res.cloudinary.com/dfyqn0c1t/image/upload/v1750331086/hack-together-ai-agents-hackathon_y5xary.png)](https://res.cloudinary.com/dfyqn0c1t/image/upload/v1750331086/hack-together-ai-agents-hackathon_y5xary.png)
